@@ -1,3 +1,5 @@
 const driver = 'bob';
-// nvokes console.log() with the string "this code was called"
+// invokes console.log() with the `driver` variable
 console.log("this code was called");
+
+console.log('bob');
